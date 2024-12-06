@@ -190,6 +190,12 @@ In this workshop, we continued to investigate document classification. Last week
 
 As with supervised machine learning, there are a number of different algorithms for document classification. Although the scikit-learn api makes it relatively simple to swap them out, the underlying mathematics are very different, and different algorithms produce different artifacts that may be useful to analyse how the machine learning model classifies documents. For this workshopm, we'll use Latent Dirichlet allocation (the github repository also contains code for using kmeans clustering, but we will stick with LDA for this workshop). 
 
+## Github
+
+https://swcarpentry.github.io/git-novice/index.html
+
+https://courses.ucsf.edu/course/view.php?id=5208
+
 ## Workbooks
 
 Most of the documentation and workbooks for this workshop are available in:
